@@ -1,5 +1,3 @@
 this is the remote file
-<<<<<<< HEAD
+
 2nd line added on pc
-=======
->>>>>>> origin/master
